@@ -14,3 +14,5 @@ XGBoost (Extreme Gradient Boosting) and Gradient Boosting: They sequentially bui
 
  Conclusion
 After intense data cleaning and preprocessing, I developed a robust laptop price prediction model using a dataset comprising 1,303 laptops and 12 key features, including CPU, RAM, and GPU. Beginning with Linear Regression, I attained an R² score of 80%. Subsequently, employing K-Nearest Neighbors (KNN) improved the score to 81.4%, followed by Decision Trees yielding 88.6%. Implementing advanced boosting techniques such as XGBoost and Gradient Boosting further enhanced performance, achieving an R² score of 86.4%. Finally, leveraging a Voting Regressor ensemble method produced the highest R² score of 89.3%. This approach underscores the efficacy of combining diverse algorithms to achieve superior predictive accuracy in regression modeling.
+
+![image](https://github.com/user-attachments/assets/afcd6f80-c206-4e90-ae32-51eb9edd7d5f)
